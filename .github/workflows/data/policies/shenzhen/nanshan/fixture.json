@@ -1,0 +1,11 @@
+{
+  "policy_id": "FIXTURE-NS-0001",
+  "name": "示例政策（待官方核验）",
+  "region": {"country":"CN","province":"广东省","city":"深圳市","district":"南山区"},
+  "department": "待核验",
+  "categories": ["fixture"], "target_groups": [],
+  "benefit": {"type":"cash","currency":"CNY"},
+  "policy_status":"UNKNOWN",
+  "official_source":{"url":"https://example.invalid","publisher":"待核验"},
+  "last_verified_at":"2026-09-23"
+}
